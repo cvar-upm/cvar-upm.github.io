@@ -43,6 +43,5 @@ social:
 lang: en
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-theme-hamilton
 
-# remote_theme: ngzhio/jekyll-theme-hamilton
