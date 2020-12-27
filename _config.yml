@@ -1,6 +1,6 @@
 title: Computer Vision and Aerial Robotics
 description: Reseaarch Group at Universidad Politécnica de Madrid
-author: Shangzhi Huang
+author: Martin Molina
 avatar: /logo.png
 email: visionaerialrobotics@gmail.com
 
@@ -9,6 +9,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+
+skin: daylight
 
 paginate: 10
 
