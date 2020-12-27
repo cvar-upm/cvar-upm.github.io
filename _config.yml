@@ -1,8 +1,8 @@
 title: Computer Vision and Aerial Robotics
 description: Reseaarch Group at Universidad Politécnica de Madrid
-author: Martin Molina
+# author: Martin Molina
 avatar: /logo.png
-email: visionaerialrobotics@gmail.com
+# email: visionaerialrobotics@gmail.com
 
 plugins:
 #  - jekyll-seo-tag
