@@ -1,5 +1,6 @@
 ---
 layout: page
+tile: Prueba
 permalink: /prueba/
 ---
 
