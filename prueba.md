@@ -1,6 +1,6 @@
 ---
 layout: page
-tile: Prueba
+title: Prueba
 permalink: /prueba/
 ---
 
