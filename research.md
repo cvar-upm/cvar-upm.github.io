@@ -4,7 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-The research group “Computer Vision & Aerial Robotics Group” at U.P.M. is focused on increasing the autonomy of the UAV by using vision as the key sensor and being able to autonomously recognise its environment. This main feature allows UAVs to be able to safety manoeuvre in both outdoors and indoors for interacting with the environment and taking data out of it in multiple civil applications.
+# Research Group CVAR UPM
+
+The research group “Computer Vision & Aerial Robotics Group” at Universidad Politécnica de Madrid (UPM). is focused on increasing the autonomy of the UAV by using vision as the key sensor and being able to autonomously recognise its environment. This main feature allows UAVs to be able to safety manoeuvre in both outdoors and indoors for interacting with the environment and taking data out of it in multiple civil applications.
 
 This propose is achieved by CVAR-UPM by researching and being at the forefront of the technology in Image Processing, Control and Artificial Intelligence, whose results are visible through a significant amount of technology transfer projects, international collaboration and scientific publications in most relevant journals and congress in the area. 
 
