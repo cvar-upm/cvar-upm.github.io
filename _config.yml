@@ -1,10 +1,9 @@
-title: "  "
+title: " "
 author:
   name: Computer Vision and Aerial Robotics (CVAR)
   email: visionaerialrobotics@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Website of CVAR research group (Computer Vision and Aerial Robotics).
-  Universidad Politécnica de Madrid.
+  Universidad Politécnica de Madrid
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -52,7 +51,6 @@ header_pages:
  - research.md
  - people.md
  
-
 # Build settings
 theme: minima
 
