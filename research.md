@@ -11,12 +11,20 @@ This propose is achieved by CVAR-UPM by researching and being at the forefront o
 Much of the research of the Group is included in its open source UAV framework Aerostack, that is aimed to be spread among the scientific community as well as among the potential developers of UAV developers and that is currently in its second version. The Group has also been awarded in several of the most prestigious international competitions in UAV. 
 
 The main research areas of activities of the Group are the following:
-•	Visual detection and recognition in still images using Machine Learning (e.g. Deep Learning)
-•	Object tracking from UAV, using visual features as well as whole templates
-•	Image stabilization and mosaicking, that allows to have a large stabilized picture of all the area seen from the UAV
-•	On-board pose estimation, using different technologies accordingly to the application, such as homography from motion, 3D marker tracking, stereo vision or omnidirectional vision.
-•	Visual 3D map reconstruction of the surrounding environment 
-•	Sensor fusion of vision with other sensors (e.g. LIDAR, GPS, IMU, ultrasonic)
-•	Visual control, both in the image plane and in the 3D space, using classical control techniques (PID, LQG, advanced control), as well as relevant modern techniques (e.g. L1, Geometric control, DMC) and the promising Reinforming Learning for both trajectory planning an trajectory control.
-•	Sensor fusion, including visual information with odometric and GPS information by an EKF which takes into account the UAV dynamic model.
+
+- Visual detection and recognition in still images using Machine Learning (e.g. Deep Learning)
+
+- Object tracking from UAV, using visual features as well as whole templates
+
+- Image stabilization and mosaicking, that allows to have a large stabilized picture of all the area seen from the UAV
+
+-	On-board pose estimation, using different technologies accordingly to the application, such as homography from motion, 3D marker tracking, stereo vision or omnidirectional vision.
+
+-	Visual 3D map reconstruction of the surrounding environment.
+
+- Sensor fusion of vision with other sensors (e.g. LIDAR, GPS, IMU, ultrasonic)
+
+- Visual control, both in the image plane and in the 3D space, using classical control techniques (PID, LQG, advanced control), as well as relevant modern techniques (e.g. L1, Geometric control, DMC) and the promising Reinforming Learning for both trajectory planning an trajectory control.
+
+- Sensor fusion, including visual information with odometric and GPS information by an EKF which takes into account the UAV dynamic model.
 
