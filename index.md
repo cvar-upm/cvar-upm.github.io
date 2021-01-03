@@ -11,3 +11,6 @@ layout: home
 Welcome to Computer Vision and Aerial Robotics (CVAR). We are a research group of the Universidad Politecnica de Madrid (UPM).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KNUORQHR2nY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-----
+## Latest news:
