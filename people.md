@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: People
+permalink: /people/
 ---
 
 We are a research group of the Universidad Politecnica de Madrid (UPM).
