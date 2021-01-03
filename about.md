@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We are a research group of the Universidad Politecnica de Madrid (UPM).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Professors:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Pascual Campoy** (Lead of CVAR)
+Full Professor - Systems Engineering and Automation
 
+**Martin Molina** (Coordinator or the Aerostack Project)
+Full Professor - Computer Sciene and Artificial Intelligence
 
-[jekyll-organization]: https://github.com/jekyll
+**Luis Baumela**
+Full Professor - Computer Sciene and Artificial Intelligence
+
+**Sergio Dominguez**
+Associate Professor - Systems Engineering and Automation
