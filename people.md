@@ -3,10 +3,11 @@ layout: page
 title: People
 permalink: /people/
 ---
+### People
 
 We are a research group of the Universidad Politecnica de Madrid (UPM).
 
-### Professors:
+**Professors:**
 
 - **Pascual Campoy** (Lead of CVAR). Full Professor - Systems Engineering and Automation.
 
