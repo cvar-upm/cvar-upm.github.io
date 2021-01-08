@@ -4,15 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Here you can find some of the recent projects developed by CVAR.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- "DAR System WP 1-A Drone platform definition for Outdoor and Indoor A/C Inspection", Contracted by AIRBUS Defense & Space, Ref: CT1807377, Duration: September 2018 to December 2018
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- “Tropical Plants Detection and Recognition from Aerial Images taken by Drones” contracted by INDIGO Drones, Costa Rica, 2017-18
 
-
-[jekyll-organization]: https://github.com/jekyll
+- “Autonomous Boiler Inspection in a Thermal Power Plant using Drones” contracted by GASNATURAL-Union Fenosa, 2017-18.
