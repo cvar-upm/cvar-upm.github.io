@@ -3,9 +3,10 @@ layout: page
 title: People
 permalink: /people/
 ---
-### People
 
-We are a research group of the Universidad Politecnica de Madrid (UPM).
+**People at CVAR**
+
+Members of CVAR belong to the Universidad Politécnica de Madrid.
 
 **Professors:**
 
