@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+**Example projects**
+
 Here you can find some of the recent projects developed by CVAR.
 
 - "DAR System WP 1-A Drone platform definition for Outdoor and Indoor A/C Inspection", Contracted by AIRBUS Defense & Space, Ref: CT1807377, Duration: September 2018 to December 2018
