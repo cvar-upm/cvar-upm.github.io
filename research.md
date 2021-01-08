@@ -12,6 +12,10 @@ This propose is achieved by CVAR-UPM by researching and being at the forefront o
 
 Much of the research of the Group is included in its open source UAV framework Aerostack, that is aimed to be spread among the scientific community as well as among the potential developers of UAV developers and that is currently in its second version. The Group has also been awarded in several of the most prestigious international competitions in UAV. 
 
+<a href="https://github.com/cvar-upm/cvar-upm.github.io/raw/main/assets/photoGroup2017.png">
+       <img src="https://github.com/cvar-upm/cvar-upm.github.io/raw/main/assets/photoGroup2017.png" width=600>
+   </a>
+
 The main research areas of activities of the Group are the following:
 
 - Visual detection and recognition in still images using Machine Learning (e.g. Deep Learning)
