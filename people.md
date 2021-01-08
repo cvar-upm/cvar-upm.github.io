@@ -18,3 +18,9 @@ We are a research group of the Universidad Politecnica de Madrid (UPM).
 
 
 **Sergio Dominguez**. Associate Professor - Systems Engineering and Automation.
+
+
+
+<a href="https://raw.githubusercontent.com/wiki/Vision4UAV/Aerostack/Files/PhotoMBZIRC2020_1.png">
+       <img src="https://raw.githubusercontent.com/wiki/Vision4UAV/Aerostack/Files/PhotoMBZIRC2020_1.png" width=600>
+   </a>
