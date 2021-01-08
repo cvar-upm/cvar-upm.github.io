@@ -21,6 +21,6 @@ We are a research group of the Universidad Politecnica de Madrid (UPM).
 
 
 
-<a href="https://raw.githubusercontent.com/wiki/Vision4UAV/Aerostack/Files/PhotoMBZIRC2020_1.png">
-       <img src="https://raw.githubusercontent.com/wiki/Vision4UAV/Aerostack/Files/PhotoMBZIRC2020_1.png" width=600>
+<a href="https://github.com/cvar-upm/cvar-upm.github.io/raw/main/assets/photoGroup2017.png">
+       <img src="https://github.com/cvar-upm/cvar-upm.github.io/raw/main/assets/photoGroup2017.png" width=600>
    </a>
