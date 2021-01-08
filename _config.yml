@@ -50,6 +50,7 @@ minima:
 header_pages:
  - research.md
  - people.md
+ - projects.md
  
 # Build settings
 theme: minima
