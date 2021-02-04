@@ -4,4 +4,4 @@ title: Code
 permalink: /code/
 ---
 
-Aerostack
+[Aerostack: A software framework for aerial robotic systems](www.aerostack.org)
