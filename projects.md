@@ -14,9 +14,9 @@ Unmanned aerial vehicles (UAV) complex missions using on board sensors (i.e. vis
 
 Sample of recent projects:
 
-- DAR Project for Aircraft Inspection” for AIRBUS Defence & Space [Video](https://vimeo.com/showcase/6617361)
+- DAR Project for Aircraft Inspection” for AIRBUS Defence & Space ([Video](https://vimeo.com/showcase/6617361))
 
-- Boiler Inspection in Meirama Thermal Power Plant” for Naturgy [Video](https://vimeo.com/showcase/5782536)
+- Boiler Inspection in Meirama Thermal Power Plant” for Naturgy ([Video](https://vimeo.com/showcase/5782536))
 
 
 **Computer vision**
@@ -25,17 +25,17 @@ Image/video recognition and detection using machine learning (e.g. deep learning
 
 Sample of recent projects:
 
-- Tropical Plants Detection and Recognition from Aerial Images taken by Drones” for INDIGO Drones [Video](https://www.youtube.com/watch?v=le0PggkA_oM&feature=emb_logo) 
+- Tropical Plants Detection and Recognition from Aerial Images taken by Drones” for INDIGO Drones ([Video](https://www.youtube.com/watch?v=le0PggkA_oM&feature=emb_logo))
 
-- Electric Tower Inspection” for several companies (Fenosa, Prysma, REE, Aeromedia) [Video](https://vimeo.com/showcase/578244)
+- Electric Tower Inspection” for several companies (Fenosa, Prysma, REE, Aeromedia) ([Video](https://vimeo.com/showcase/578244))
 
 **International competitions**
 
 We are awarded in top international competitions in drones autonomy: IMAV12, IMAV13, IARC14, IMAV16, IMAV17, IMAV 2019 and MBZIRC20. For example:
 
-- Third place at the Grand Challenge in the MBZIRC20 competition in Abu Dhabi [Video](https://vimeo.com/showcase/6842547)
+- Third place at the Grand Challenge in the MBZIRC20 competition in Abu Dhabi ([Video](https://vimeo.com/showcase/6842547))
 
-- Organisers of the International Mini Air Vehicle Competition and Conference in Madrid IMAV19 [Video](https://vimeo.com/showcase/6615733)
+- Organisers of the International Mini Air Vehicle Competition and Conference in Madrid IMAV19 ([Video](https://vimeo.com/showcase/6615733))
 
 
 
