@@ -4,4 +4,4 @@ title: Code
 permalink: /code/
 ---
 
-[Aerostack: A software framework for aerial robotic systems](https://github.com/cvar-upm/aerostack/wiki)
+[Aerostack]((https://github.com/cvar-upm/aerostack/wiki)) is a software framework that helps developers design and build the control architecture of aerial robotic systems, integrating multiple heterogeneous computational solutions (e.g., computer vision algorithms, motion controllers, self-localization and mapping methods, motion planning algorithms, etc.).
