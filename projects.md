@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-##Example projects
+### Example projects
 
 Our research projects are mainly oriented to the following two objectives.
 
@@ -21,7 +21,7 @@ Our research projects are mainly oriented to the following two objectives.
 
 - Electric Tower Inspection” for several companies (Fenosa, Prysma, REE, Aeromedia) ([Video](https://vimeo.com/showcase/578244))
 
-##International competitions
+### International competitions
 
 We are awarded in top international competitions in drones autonomy: IMAV12, IMAV13, IARC14, IMAV16, IMAV17, IMAV 2019 and MBZIRC20. For example:
 
