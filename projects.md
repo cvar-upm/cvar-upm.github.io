@@ -19,7 +19,7 @@ Our research projects are mainly oriented to the following two objectives.
 
 - Tropical Plants Detection and Recognition from Aerial Images taken by Drones” for INDIGO Drones ([Video](https://www.youtube.com/watch?v=le0PggkA_oM&feature=emb_logo))
 
-- Electric Tower Inspection” for several companies (Fenosa, Prysma, REE, Aeromedia) ([Video](https://vimeo.com/showcase/578244))
+- Electric Tower Inspection” for several companies (Fenosa, Prysma, REE, Aeromedia) ([Video](https://vimeo.com/showcase/5782445))
 
 ### International competitions
 
