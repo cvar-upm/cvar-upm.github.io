@@ -15,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github:  https://github.com/cvar-upm
+    github: https://github.com/cvar-upm
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -23,7 +23,7 @@ minima:
     # instagram: jekyll
     linkedin: https://www.linkedin.com/in/martin-molina-professor-artificial-intelligence/
     # pinterest: jekyll
-    # youtube: jekyll
+    youtube: https://www.youtube.com/user/colibriprojectUAV/featured
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
