@@ -1,10 +1,9 @@
 title: " "
 author:
-  name: 
+  name: Computer Vision and Aerial Robotics (CVAR)
   email: visionaerialrobotics@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Computer Vision and Aerial Robotics (CVAR)
-
+  
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -25,7 +24,7 @@ minima:
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    youtube_channel_name: Vision4UAV
+    # youtube_channel_name: ...
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
