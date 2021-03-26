@@ -28,15 +28,20 @@ Our research projects are mainly oriented to the following two objectives:
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/318826658" width="281" height="158" frameborder="0" allowfullscreen></iframe>
 
+
 --------
 
 **International competitions**
 
 We are awarded in top international competitions in drones autonomy: IMAV12, IMAV13, IARC14, IMAV16, IMAV17, IMAV 2019 and MBZIRC20. For example:
 
-- Third place at the Grand Challenge in the MBZIRC20 competition in Abu Dhabi ([Video](https://vimeo.com/showcase/6842547))
+- Third place at the Grand Challenge in the MBZIRC20 competition in Abu Dhabi
 
-- Organisers of the International Mini Air Vehicle Competition and Conference in Madrid IMAV19 ([Video](https://vimeo.com/showcase/6615733))
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/399137661" width="281" height="158" frameborder="0" allowfullscreen></iframe>
+
+- Organisers of the International Mini Air Vehicle Competition and Conference in Madrid IMAV19
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/376235995" width="281" height="158" frameborder="0" allowfullscreen></iframe>
 
 
 
