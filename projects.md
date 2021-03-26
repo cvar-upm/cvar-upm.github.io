@@ -12,9 +12,11 @@ Our research projects are mainly oriented to the following two objectives:
 
 - DAR Project for Aircraft Inspection” for AIRBUS Defence & Space ([Video](https://vimeo.com/showcase/6617361))
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/393907228" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/393907228" width="281" height="158" frameborder="0" allowfullscreen></iframe>
 
 - Boiler Inspection in Meirama Thermal Power Plant” for Naturgy ([Video](https://vimeo.com/showcase/5782536))
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/269340493" width="281" height="158" frameborder="0" allowfullscreen></iframe>
 
 
 2. *Computer vision*. Image/video recognition and detection using machine learning (e.g. deep learning), as well as image processing techniques, mainly used for aerial images an also for other kind of images. Reinforcement learning for controlling UAV is also one of our main research topics, based on both direct visual info and pose estimation. Sample of recent projects:
