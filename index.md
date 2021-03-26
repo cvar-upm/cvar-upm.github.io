@@ -13,4 +13,9 @@ Welcome to research group CVAR (Computer Vision and Aerial Robotics) of the Univ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KNUORQHR2nY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/393907228" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+
 # Latest news:
