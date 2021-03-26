@@ -18,13 +18,13 @@ Our research projects are mainly oriented to the following two objectives:
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/269340493" width="281" height="158" frameborder="0" allowfullscreen></iframe>
 
---------
-
 *Computer vision*. Image/video recognition and detection using machine learning (e.g. deep learning), as well as image processing techniques, mainly used for aerial images an also for other kind of images. Reinforcement learning for controlling UAV is also one of our main research topics, based on both direct visual info and pose estimation. Sample of recent projects:
 
 - Tropical Plants Detection and Recognition from Aerial Images taken by Drones” for INDIGO Drones ([Video](https://www.youtube.com/watch?v=le0PggkA_oM&feature=emb_logo))
 
 - Electric Tower Inspection” for several companies (Fenosa, Prysma, REE, Aeromedia) ([Video](https://vimeo.com/showcase/5782445))
+
+--------
 
 **International competitions**
 
