@@ -1,7 +1,7 @@
 title: " "
 author:
   name: Computer Vision and Aerial Robotics (CVAR)
-  email: visionaerialrobotics@gmail.com
+  email: gi.visionaerialrobotics@upm.es
 description: > # this means to ignore newlines until "show_excerpts:"
   
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -14,7 +14,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github: cvar-upm
+    # github: cvar-upm
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
