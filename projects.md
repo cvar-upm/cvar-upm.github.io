@@ -10,11 +10,7 @@ Our research projects are mainly oriented to the following two objectives:
 
 *Aerial robotics*. Unmanned aerial vehicles (UAV) complex missions using on board sensors (i.e. vision and lidar) and on-board computing for autonomously flying in environments where GPS is not available (e.g. indoors) or where GPS doesn't provide enough accuracy (e.g. industrial inspection and/or manoeuvres close to obstacles). Sample of recent projects:
 
-
-
-<div style=”float:left;margin:0 10px 5px 0;”>  
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/393907228" width="281" height="158" frameborder="0" allowfullscreen> DAR Project for Aircraft Inspection” for AIRBUS Defence & Space </iframe>
-</div>
 
 - Boiler Inspection in Meirama Thermal Power Plant” for Naturgy
 
