@@ -13,9 +13,7 @@ Our research projects are mainly oriented to the following two objectives:
 - DAR Project for Aircraft Inspection” for AIRBUS Defence & Space
 
 <div style=”float:left;margin:0 10px 5px 0;”>  
-
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/393907228" width="281" height="158" frameborder="0" allowfullscreen></iframe>
-
 </div>
 
 - Boiler Inspection in Meirama Thermal Power Plant” for Naturgy
