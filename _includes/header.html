@@ -1,8 +1,8 @@
 <header class="site-header">
 
   <div class="wrapper">
-    <a href="https://cvar-upm.github.io">
-      <img src="https://raw.githubusercontent.com/cvar-upm/cvar-upm.github.io/main/logoHorizontal.png" width=300>
+    <a href="{{ site.url }}">
+      <img src="{{ site.baseurl }}/assets/imgs/logoHorizontal.png" width=300>
     </a>
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}

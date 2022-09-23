@@ -12,12 +12,9 @@ CVAR-UPM aims to achieve this goal by researching and being at the forefront of 
 
 A significant part of the Group's research results is included its open source UAV framework [Aerostack](www.aerostack.org), that is aimed to be spread among the scientific community as well as among the potential developers of UAV developers. The Group has also been awarded in several of the most prestigious international competitions in UAV. 
 
-<div style="text-align: center">
-    <a href="https://raw.githubusercontent.com/cvar-upm/cvar-upm.github.io/main/assets/photoObservingDrone.png">
-        <img src="https://raw.githubusercontent.com/cvar-upm/cvar-upm.github.io/main/assets/photoObservingDrone.png" width=400>
-    </a>
-</div>
-<br/>
+{:refdef: style="text-align: center;"}
+![drone]({{ site.baseurl }}/assets/imgs/photoObservingDrone.png){: width="600"}
+{: refdef}
 
 The main research areas of activities of the Group are the following:
 
