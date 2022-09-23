@@ -23,6 +23,8 @@ Professors:
 
 CVAR members in 2017:
 
-<a href="https://github.com/cvar-upm/cvar-upm.github.io/raw/main/assets/photoGroup2017.png">
-       <img src="https://github.com/cvar-upm/cvar-upm.github.io/raw/main/assets/photoGroup2017.png" width=600>
-   </a>
+<div style="text-align: center">
+    <a href="https://github.com/cvar-upm/cvar-upm.github.io/raw/main/assets/photoGroup2017.png">
+        <img src="https://github.com/cvar-upm/cvar-upm.github.io/raw/main/assets/photoGroup2017.png" width=600>
+    </a>
+</div>
